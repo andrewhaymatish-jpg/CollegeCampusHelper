@@ -11,6 +11,12 @@ Build Requirements:
 - Java 17+
 - Android SDK 26+
 
+How to Build the App:
+1. Download the program as a ZIP before extracting it.
+2. Open Android Studio.
+3. Click "Open an Existing Project".
+4. Select the folder "CollegeCampusHelper/".
+   
 How to Run the App:
 1.  In Android Studio, open Device Manager.
 2.  Create an emulator / Enable Developer Options and USB debugging before plugging in a device.
